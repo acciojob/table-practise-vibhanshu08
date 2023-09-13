@@ -6,8 +6,8 @@ table {
 	background-color:yellow;
 }
 
-td, th {
-  border: 1px solid #dddddd;
+td, th,tr{
+  border: 1px solid black;
   text-align: left;
   padding: 8px;
 }
